@@ -34,10 +34,7 @@ Personal bookmarks collection
 
 
 ## General
-- [21.co](https://21.co/)
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
-- [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
-- [Artsy](https://www.artsy.net/)
 - [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Barnacles](https://barnacl.es/)
@@ -161,6 +158,7 @@ Personal bookmarks collection
 - [Realm](https://realm.io/)
 - [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
+- [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
 
 ## Tools
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
@@ -322,6 +320,7 @@ Personal bookmarks collection
 
 ## Finance
 ### Jobs
+- [Artsy](https://www.artsy.net/) - buy or sell arts
 - [Angellist](https://angel.co) - Find a job at a startup or post a job at a startup.
 - [Codementor](https://www.codementor.io/) - Find freelance developers.
 - [Graduateland](https://graduateland.com)
@@ -341,6 +340,7 @@ Personal bookmarks collection
 - [Coin marketcap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations.
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
+- [21.co](https://21.co/)
 
 ## Social
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
