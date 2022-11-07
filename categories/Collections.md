@@ -1,5 +1,6 @@
 - [Vim awesome](http://vimawesome.com/) - Find vim plugins.
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
+- [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
 - [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
 
 ## Photo
@@ -7,7 +8,6 @@
 - [Flickr](https://www.flickr.com/)
 - [Ill gander](https://illgander.com/)
 - [Imgur](https://imgur.com/)
-- [Instagram](https://www.instagram.com/)
 - [pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.

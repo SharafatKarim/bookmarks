@@ -1,2 +1,0 @@
-- [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
-- [Zen habits](https://zenhabits.net/archives/)

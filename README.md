@@ -1,7 +1,6 @@
 # Bookmarks
 Personal bookmarks collection
 --
-## [General](categories/General) 
 ## [Cloud](categories/Cloud) 
 ## [Design](categories/Design)
 ## [Development](categories/Development) 
@@ -13,6 +12,5 @@ Personal bookmarks collection
 ## [Fun](categories/Fun)
 ## [Wiki](categories/Wiki) 
 ## [Finance](categories/Finance)
-## [Social](categories/Social) 
 ## [Others](Others.md) 
 ## [Experiments](categories/Experiments)
