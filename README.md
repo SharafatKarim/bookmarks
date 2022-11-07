@@ -1,6 +1,6 @@
-# bookmarks
+# Bookmarks
 Personal bookmarks collection
-
+--
 ## [General](categories/General) 
 ## [Cloud](categories/Cloud) 
 ## [Design](categories/Design)
@@ -15,10 +15,4 @@ Personal bookmarks collection
 ## [Finance](categories/Finance)
 ## [Social](categories/Social) 
 ## [Others](Others.md) 
-### [Startups](categories/S)
-- [Failory](https://failory.com/) - Learn from failed startups.
-- [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
-
-## Experiments
-
-- [WebGL water](http://madebyevan.com/webgl-water/)
+## [Experiments](categories/Experiments)
