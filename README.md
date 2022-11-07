@@ -18,7 +18,12 @@ It's just 4 thing, north, east, west and south and it is so much dynamic.
 ## [Collections](categories/Collections) 
 It exists so that you don't need to collect again.
 ## [Fun](categories/Fun)
+Let's take a break!
 ## [Wiki](categories/Wiki) 
+These kind of thing exists so that it can help you fall asleep.
 ## [Finance](categories/Finance)
+
 ## [Others](Others.md) 
+And some leftovers, can you categorize them?
 ## [Experiments](categories/Experiments)
+These kind of things exits so that you can again visit this
