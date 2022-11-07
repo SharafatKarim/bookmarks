@@ -1,6 +1,38 @@
 # bookmarks
 Personal bookmarks collection
 
+- [bookmarks](#bookmarks)
+  * [General](#general)
+  * [Cloud](#cloud)
+    + [Storage](#storage)
+    + [Search](#search)
+    + [Services](#services)
+  * [Design](#design)
+  * [Development](#development)
+  * [Tools](#tools)
+  * [Learn](#learn)
+  * [Machine learning](#machine-learning)
+  * [News](#news)
+  * [Collections](#collections)
+    + [Photo](#photo)
+  * [Video](#video)
+  * [Fun](#fun)
+    + [Games](#games)
+  * [Wiki](#wiki)
+    + [GitHub related](#github-related)
+    + [Others](#others)
+  * [Finance](#finance)
+    + [Jobs](#jobs)
+    + [Currency](#currency)
+    + [Crypto](#crypto)
+  * [Social](#social)
+  * [Other](#other)
+    + [Startups](#startups)
+  * [Experiments](#experiments)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## General
 - [21.co](https://21.co/)
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
