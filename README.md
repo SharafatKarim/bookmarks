@@ -144,78 +144,6 @@ Personal bookmarks collection
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Visualgo](https://visualgo.net/en)
 
-## Jobs
-
-- [Angellist](https://angel.co) - Find a job at a startup or post a job at a startup.
-- [Codementor](https://www.codementor.io/) - Find freelance developers.
-- [Graduateland](https://graduateland.com)
-- [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
-
-## Learn
-
-- [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
-- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
-- [Class central](https://www.class-central.com/)
-- [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
-- [Coursera](https://www.coursera.org/)
-- [Courseroot](https://courseroot.com/) - Search best online courses.
-- [Educative.io] - Online tutorials
-- [EdX](https://www.edx.org/)
-- [Encyclopedia Britannica](https://www.britannica.com/)
-- [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
-- [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
-- [Freecodecamp](https://www.freecodecamp.com/)
-- [Internet Curated](https://internetcurated.com/) - Collection of 150+ hand-picked curated resources & tools.
-- [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
-- [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
-- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
-- [Library of Babel](http://libraryofbabel.info/)
-- [MDN](https://developer.mozilla.org/en-US/)
-- [Metacademy](https://www.metacademy.org/)
-- [MIT courses](https://ocw.mit.edu/courses/)
-- [Open culture](http://www.openculture.com/)
-- [Open yale courses](http://oyc.yale.edu/)
-- [Physics Travel Guide](https://physicstravelguide.com)
-- [Quizlet](https://quizlet.com/latest)
-- [Ray Wenderlich](https://www.raywenderlich.com/)
-- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
-- [TED](https://www.ted.com/) - Free Expert Academic Talks.
-- [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
-- [Udacity](https://www.udacity.com/)
-- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
-- [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
-
-## News
-
-- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
-- [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
-- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
-- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
-- [Fast company](https://www.fastcompany.com/) - Online Magazine.
-- [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
-- [Golang news](https://golangnews.com/)
-- [Golang weekly](https://golangweekly.com)
-- [Hacker news (new)](https://news.ycombinator.com/newest) - RSS for Hacker News.
-- [Hacker news ranking](http://hnrankings.info/search/)
-- [Hacker news](https://hckrnews.com/)
-- [HN favourites](http://www.hnfavorites.com/#)
-- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
-- [Medium - top](https://medium.com/browse/top)
-- [Medium drafts](https://medium.com/me/stories/drafts)
-- [Medium](https://medium.com/)
-- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
-- [PH today](http://ph.needles.me/)
-- [Quanta Magazine](https://www.quantamagazine.org/)
-- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
-- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
-- [Readspike](https://readspike.com/)
-- [Slashdot](https://slashdot.org/)
-- [Sparkman](http://sparkman.strikingly.com/)
-- [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
-
-
-
-
 ###########################################
 ###########################################
 
@@ -292,6 +220,37 @@ Personal bookmarks collection
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
 
 ## Learn
+- [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+- [Class central](https://www.class-central.com/)
+- [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
+- [Coursera](https://www.coursera.org/)
+- [Courseroot](https://courseroot.com/) - Search best online courses.
+- [Educative.io] - Online tutorials
+- [EdX](https://www.edx.org/)
+- [Encyclopedia Britannica](https://www.britannica.com/)
+- [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
+- [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
+- [Freecodecamp](https://www.freecodecamp.com/)
+- [Internet Curated](https://internetcurated.com/) - Collection of 150+ hand-picked curated resources & tools.
+- [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
+- [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
+- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+- [Library of Babel](http://libraryofbabel.info/)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [Metacademy](https://www.metacademy.org/)
+- [MIT courses](https://ocw.mit.edu/courses/)
+- [Open culture](http://www.openculture.com/)
+- [Open yale courses](http://oyc.yale.edu/)
+- [Physics Travel Guide](https://physicstravelguide.com)
+- [Quizlet](https://quizlet.com/latest)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
+- [TED](https://www.ted.com/) - Free Expert Academic Talks.
+- [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
+- [Udacity](https://www.udacity.com/)
+- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
+- [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
 
 ## Machine learning
 
@@ -300,6 +259,32 @@ Personal bookmarks collection
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
 
 ## News
+
+- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
+- [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
+- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
+- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
+- [Fast company](https://www.fastcompany.com/) - Online Magazine.
+- [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
+- [Golang news](https://golangnews.com/)
+- [Golang weekly](https://golangweekly.com)
+- [Hacker news (new)](https://news.ycombinator.com/newest) - RSS for Hacker News.
+- [Hacker news ranking](http://hnrankings.info/search/)
+- [Hacker news](https://hckrnews.com/)
+- [HN favourites](http://www.hnfavorites.com/#)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
+- [Medium - top](https://medium.com/browse/top)
+- [Medium drafts](https://medium.com/me/stories/drafts)
+- [Medium](https://medium.com/)
+- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
+- [PH today](http://ph.needles.me/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
+- [Readspike](https://readspike.com/)
+- [Slashdot](https://slashdot.org/)
+- [Sparkman](http://sparkman.strikingly.com/)
+- [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
 ## Collections
 ### Photo
@@ -349,6 +334,11 @@ Personal bookmarks collection
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
 
 ## Finance
+### Jobs
+- [Angellist](https://angel.co) - Find a job at a startup or post a job at a startup.
+- [Codementor](https://www.codementor.io/) - Find freelance developers.
+- [Graduateland](https://graduateland.com)
+- [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
 
 ## Social
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
