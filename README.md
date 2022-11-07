@@ -3,10 +3,7 @@ Personal bookmarks collection
 
 ## Cloud services
 
-- [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
-- [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
-- [iCloud](https://www.icloud.com)
-- [os.directory](https://os.directory) - Operating System like linux distributed. 
+
 
 ## Cryptocurrencies
 
@@ -347,3 +344,26 @@ Personal bookmarks collection
 - [HN leader board](https://hnleaderboard.com/?)
 - [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
 - [Octopart](https://octopart.com/) - Search engine for electronic parts.
+
+## Cloud
+
+- [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
+- [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
+- [iCloud](https://www.icloud.com)
+- [os.directory](https://os.directory) - Operating System like linux distributed. 
+
+## Design
+
+## Tools
+
+## Learn
+
+## Machine Learning
+
+## News
+
+## Collections
+
+## Wiki
+
+## Finance
