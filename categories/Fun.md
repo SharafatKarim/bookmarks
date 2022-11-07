@@ -1,3 +1,5 @@
+- [Eventbrite](https://www.eventbrite.com/) - Discover event or create to connect with people.
+
 ## Games
 - [Checkio](https://py.checkio.org/) - Games for coding.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
