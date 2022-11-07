@@ -214,20 +214,7 @@ Personal bookmarks collection
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
 
-## Search
 
-- [Aminer](https://cn.aminer.org/)
-- [Bangs](https://duckduckgo.com/bang?)
-- [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
-- [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
-- [Slant](https://www.slant.co/)
-- [Yandex](https://www.yandex.com/)
-
-## Services
-
-- [Google Docs](https://docs.google.com/document/u/0/)
-- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
-- [Google Slides](https://docs.google.com/presentation/u/0/)
 
 ## Social
 
@@ -306,10 +293,27 @@ Personal bookmarks collection
 
 ## Cloud
 
+### Storage
+
 - [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
 - [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
 - [iCloud](https://www.icloud.com)
 - [os.directory](https://os.directory) - Operating System like linux distributed. 
+
+### Search
+
+- [Aminer](https://cn.aminer.org/)
+- [Bangs](https://duckduckgo.com/bang?)
+- [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
+- [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
+- [Slant](https://www.slant.co/)
+- [Yandex](https://www.yandex.com/)
+
+### Services
+
+- [Google Docs](https://docs.google.com/document/u/0/)
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
+- [Google Slides](https://docs.google.com/presentation/u/0/)
 
 ## Design
 
@@ -332,7 +336,6 @@ Personal bookmarks collection
 ## News
 
 ## Collections
-
 ### Photo
 - [Flickr - explore](https://www.flickr.com/explore)
 - [Flickr](https://www.flickr.com/)
