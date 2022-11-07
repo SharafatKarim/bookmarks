@@ -1,27 +1,12 @@
-- [Telegraph](http://telegra.ph/)
-- [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
-- [Instant.io](https://instant.io/) - Torrent Tracker.
-- [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
-- [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
-- [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
-- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
-- [Cdecl](https://cdecl.org/) - Translate C code to English.
 - [Crontab guru](https://crontab.guru/) - Cronjob monitor.
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Deepl](https://www.deepl.com/translator)
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [Draw.io](https://www.draw.io/) - Online flowchart maker.
-- [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
-- [Google translate](https://translate.google.com/)
-- [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
 - [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
 - [Js bin](https://jsbin.com/?html,output)
 - [Jsfiddle](https://jsfiddle.net)
 - [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
-- [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
 - [lpaste](http://lpaste.net) - Pastebin.
-- [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
-- [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Rawgit](http://rawgit.com/)
 - [Regex101](https://regex101.com/)
 - [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
@@ -36,7 +21,6 @@
 - [Updwn](http://updwn.co/) - Make simple, realtime polls.
 - [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
-- [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
 - [Go compiler explorer](https://go.godbolt.org/)
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
@@ -46,6 +30,10 @@
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 
+## Productivity
+- [Telegraph](http://telegra.ph/)
+- [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
+
 ## Machine Learning
 - [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [DataQuest](https://www.dataquest.io/)
@@ -54,3 +42,19 @@
 ## Track contents
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
+- [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
+
+## Coding 
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+- [Cdecl](https://cdecl.org/) - Translate C code to English.
+- [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
+- [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
+- [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
+- [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
+- [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
+- [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
+
+## Little tweaks
+- [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
+- [Instant.io](https://instant.io/) - Torrent Tracker.
+

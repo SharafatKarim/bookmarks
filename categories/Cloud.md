@@ -20,3 +20,4 @@
 - [Google forms](https://docs.google.com/forms/u/0/) - servey
 - [Google projects](https://console.cloud.google.com/start) - Google Cloud
 - [Google trends](https://trends.google.com/trends/) - Explore what the world is searching
+- [Google translate](https://translate.google.com/)
