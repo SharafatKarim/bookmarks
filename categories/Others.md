@@ -1,5 +1,4 @@
-
--  [Crontab guru](https://crontab.guru/) - Cronjob monitor.
+- [Crontab guru](https://crontab.guru/) - Cronjob monitor.
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Deepl](https://www.deepl.com/translator)
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.

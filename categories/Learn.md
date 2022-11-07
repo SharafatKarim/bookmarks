@@ -1,3 +1,4 @@
+- [W3schools](https://www.w3schools.com/) - The standard for Web Development.
 - [Sci-hub](https://scihub.org/)
 - [Rocumentaries](https://rocumentaries.com/) - Curated links to documentaries.- [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.

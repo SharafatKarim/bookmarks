@@ -1,6 +1,5 @@
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
-- [W3schools](https://www.w3schools.com/) - The standard for Web Development.
 - [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Advent of code](http://adventofcode.com/)
@@ -13,7 +12,6 @@
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Libraries.io](https://libraries.io/)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
-- [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 - [OverAPI](http://overapi.com/)
 - [Realm](https://realm.io/)
 - [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.

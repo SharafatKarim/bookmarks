@@ -1,5 +1,3 @@
-
-
 ## Productivity
 - [Telegraph](http://telegra.ph/)
 - [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.

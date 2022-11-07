@@ -1,4 +1,3 @@
-
 - [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
 - [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
@@ -25,7 +24,3 @@
 - [Sparkman](http://sparkman.strikingly.com/)
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
-## Articles
-- [Barnacles](https://barnacl.es/) - articles
-- [Favourite and forget](http://usefulinterweb.com/)
-- [How stuff works](http://www.howstuffworks.com/)

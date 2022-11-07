@@ -5,3 +5,8 @@
 
 ## Cheat sheets
 - [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
+
+## Articles
+- [Barnacles](https://barnacl.es/) - articles
+- [Favourite and forget](http://usefulinterweb.com/)
+- [How stuff works](http://www.howstuffworks.com/)
