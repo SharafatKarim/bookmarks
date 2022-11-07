@@ -136,21 +136,6 @@ Personal bookmarks collection
 - [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
 - [Zen habits](https://zenhabits.net/archives/)
 
-## GitHub Related Tools
-
-- [First PR](http://firstpr.me) - See the first GitHub Pull Request you made.
-- [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
-- [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
-- [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
-- [Github info](http://githut.info/) - Statistics about GitHub.
-- [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
-- [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
-- [Github releases](http://www.somsubhra.com/github-release-stats/)
-- [Github trending](https://github.com/trending) - Top trending GitHub repos.
-- [Github](https://github.com/) - Coding through online collaboration.
-- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
-- [Works for me](https://works-for-me.github.io/)
-
 ## Go Resources and Tools
 
 - [Go compiler explorer](https://go.godbolt.org/)
@@ -200,11 +185,7 @@ Personal bookmarks collection
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
 - [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
 
-## Machine learning
 
-- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
-- [DataQuest](https://www.dataquest.io/)
-- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
 
 ## News
 
@@ -347,21 +328,26 @@ Personal bookmarks collection
 
 - [Flat UI colours](https://flatuicolors.com/)
 - [UI movement](https://uimovement.com)
+- [ArtHub](https://www.notion.so/afnansami/Arthub-42821556e95f42cba098ea410d390306)
+- [Visualize AI](https://www.notion.so/afnansami/VisualiseAi-005116ccd0754b4184d4bc803e7a9f22)
+- [SynestheticAI](https://synesthetic.ai/)
 
 ## Tools
 
 ## Learn
 
-## Machine Learning
+## Machine learning
+
+- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
+- [DataQuest](https://www.dataquest.io/)
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
 
 ## News
 
 ## Collections
 
 ## Fun
-
-## Games
-
+### Games
 - [Checkio](https://py.checkio.org/) - Games for coding.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 - [Codewars](https://www.codewars.com/)
@@ -369,5 +355,18 @@ Personal bookmarks collection
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
 
 ## Wiki
+### GitHub related
+- [First PR](http://firstpr.me) - See the first GitHub Pull Request you made.
+- [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
+- [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
+- [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
+- [Github info](http://githut.info/) - Statistics about GitHub.
+- [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
+- [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
+- [Github releases](http://www.somsubhra.com/github-release-stats/)
+- [Github trending](https://github.com/trending) - Top trending GitHub repos.
+- [Github](https://github.com/) - Coding through online collaboration.
+- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
+- [Works for me](https://works-for-me.github.io/)
 
 ## Finance
