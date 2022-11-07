@@ -259,15 +259,7 @@ Personal bookmarks collection
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
 
-## Video
 
-- [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
-- [Letterboxd](https://letterboxd.com)
-- [Streamable](https://streamable.com/) - Video sharing.
-- [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
-- [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
-- [Vimeo](https://vimeo.com/) - Free online high quality video sharing.
-- [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
 ## Wiki
 
@@ -338,6 +330,15 @@ Personal bookmarks collection
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
+
+## Video
+- [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
+- [Letterboxd](https://letterboxd.com)
+- [Streamable](https://streamable.com/) - Video sharing.
+- [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
+- [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
+- [Vimeo](https://vimeo.com/) - Free online high quality video sharing.
+- [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
 ## Fun
 ### Games
