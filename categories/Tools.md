@@ -1,8 +1,5 @@
 - [Telegraph](http://telegra.ph/)
-- [Grouvee](https://www.grouvee.com/) - Track your video game collection.
-- [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
-- [Goodreads](https://www.goodreads.com/) - Track which books you've read.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
 - [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
@@ -48,3 +45,12 @@
 - [Visualgo](https://visualgo.net/en)
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
+
+## Machine Learning
+- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
+- [DataQuest](https://www.dataquest.io/)
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
+
+## Track contents
+- [Grouvee](https://www.grouvee.com/) - Track your video game collection.
+- [Goodreads](https://www.goodreads.com/) - Track which books you've read.

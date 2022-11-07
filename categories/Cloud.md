@@ -2,6 +2,7 @@
 ### Storage
 - [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
 - [Cloudinary](https://cloudinary.com/) - Share media faster through website
+- [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 
 ### Search
 - [Bangs](https://duckduckgo.com/bang?) - Duck duck go bang (advanced search)
