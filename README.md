@@ -214,12 +214,6 @@ Personal bookmarks collection
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
 
-
-
-## Social
-
-
-
 ## Startups
 
 - [Failory](https://failory.com/) - Learn from failed startups.
