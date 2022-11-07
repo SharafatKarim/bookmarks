@@ -36,9 +36,6 @@ Personal bookmarks collection
 ## General
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
 - [Eventbrite](https://www.eventbrite.com/) - Discover event or create to connect with people.
-- [Exercism](http://exercism.io/) - Online execution of programming problems.
-- [Favourite and forget](http://usefulinterweb.com/)
-- [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
@@ -190,6 +187,7 @@ Personal bookmarks collection
 - [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Visualgo](https://visualgo.net/en)
+- [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
 
 ## Learn
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
@@ -227,6 +225,7 @@ Personal bookmarks collection
 - [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
+- [Exercism](http://exercism.io/) - Online execution of programming problems.
 
 ## Machine learning
 
@@ -263,6 +262,7 @@ Personal bookmarks collection
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 ### Articles
 - [Barnacles](https://barnacl.es/) - articles
+- [Favourite and forget](http://usefulinterweb.com/)
 
 ## Collections
 
