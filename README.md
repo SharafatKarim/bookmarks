@@ -185,8 +185,6 @@ Personal bookmarks collection
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
 - [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
 
-
-
 ## News
 
 - [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
@@ -215,17 +213,6 @@ Personal bookmarks collection
 - [Sparkman](http://sparkman.strikingly.com/)
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
-## Photo
-
-- [Flickr - explore](https://www.flickr.com/explore)
-- [Flickr](https://www.flickr.com/)
-- [Ill gander](https://illgander.com/)
-- [Imgur](https://imgur.com/)
-- [Instagram](https://www.instagram.com/)
-- [pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
-- [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
-- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
-- [Unsplash](https://unsplash.com/) - A large collection of free photos.
 
 ## Search
 
@@ -345,6 +332,17 @@ Personal bookmarks collection
 ## News
 
 ## Collections
+
+### Photo
+- [Flickr - explore](https://www.flickr.com/explore)
+- [Flickr](https://www.flickr.com/)
+- [Ill gander](https://illgander.com/)
+- [Imgur](https://imgur.com/)
+- [Instagram](https://www.instagram.com/)
+- [pexels](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
+- [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
+- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
+- [Unsplash](https://unsplash.com/) - A large collection of free photos.
 
 ## Fun
 ### Games
