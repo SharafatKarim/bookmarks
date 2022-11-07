@@ -213,7 +213,7 @@ Personal bookmarks collection
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
 - [Coursera](https://www.coursera.org/)
 - [Courseroot](https://courseroot.com/) - Search best online courses.
-- [Educative.io] - Online tutorials
+- [Educative.io](https://www.educative.io/) - Online tutorials
 - [EdX](https://www.edx.org/)
 - [Encyclopedia Britannica](https://www.britannica.com/)
 - [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
