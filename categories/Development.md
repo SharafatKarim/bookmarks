@@ -1,3 +1,4 @@
+- [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Advent of code](http://adventofcode.com/)
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
 - [Code school](https://www.codeschool.com/)

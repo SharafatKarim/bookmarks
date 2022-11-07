@@ -5,6 +5,8 @@
 - [Graduateland](https://graduateland.com)
 - [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
 - [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
+- [Hackerrank](https://www.hackerrank.com/) - Matching developers with great companies
+- [Interviewbit](https://www.interviewbit.com/) - interview practice
 
 ### Currency
 - [Bitcoin now](https://bitcoin.now.sh/) - See the current Bitcoin price.
