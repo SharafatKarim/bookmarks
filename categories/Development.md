@@ -1,9 +1,11 @@
+## Practice
+- [Advent of code](http://adventofcode.com/)
+
+ 
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
 - [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
-- [Advent of code](http://adventofcode.com/)
-- [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
 - [Code school](https://www.codeschool.com/)
 - [Codility](https://codility.com/programmers/)
 - [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
