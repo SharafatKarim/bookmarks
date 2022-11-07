@@ -1,3 +1,5 @@
+- [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
+- [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
 - [W3schools](https://www.w3schools.com/) - The standard for Web Development.
 - [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.

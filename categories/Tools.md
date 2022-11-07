@@ -1,34 +1,4 @@
-- [Crontab guru](https://crontab.guru/) - Cronjob monitor.
-- [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
-- [Deepl](https://www.deepl.com/translator)
-- [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
-- [Js bin](https://jsbin.com/?html,output)
-- [Jsfiddle](https://jsfiddle.net)
-- [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
-- [lpaste](http://lpaste.net) - Pastebin.
-- [Rawgit](http://rawgit.com/)
-- [Regex101](https://regex101.com/)
-- [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-- [Regulex](https://jex.im/regulex/) - Regular Expression Visualizer.
-- [ShareLaTeX](https://www.sharelatex.com) - Online LaTeX editing.
-- [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
-- [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
-- [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
-- [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
-- [TIO](https://tio.run/#) - Family of online interpreters.
-- [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
-- [Updwn](http://updwn.co/) - Make simple, realtime polls.
-- [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
-- [Vocaroo](http://vocaroo.com/) - Voice recording service.
-- [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
-- [Go compiler explorer](https://go.godbolt.org/)
-- [Go FAQ](https://golang.org/doc/faq#nil_error)
-- [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
-- [Godoc](https://godoc.org/) - Search for Go Packages.
-- [Visualgo](https://visualgo.net/en)
-- [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
-- [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
+
 
 ## Productivity
 - [Telegraph](http://telegra.ph/)
@@ -50,8 +20,8 @@
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
 - [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
-- [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
-- [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
+- [HackMD](https://hackmd.io/) - Real time, Multi-platform Collaborative Markdown note editor.
+- [Overleaf](https://www.overleaf.com) - Online La-TeX editing.
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
 
 ## Little tweaks
