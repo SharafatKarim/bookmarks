@@ -1,3 +1,4 @@
+- [Telegraph](http://telegra.ph/)
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.

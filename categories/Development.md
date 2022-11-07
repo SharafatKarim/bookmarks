@@ -1,3 +1,4 @@
+- [W3schools](https://www.w3schools.com/) - The standard for Web Development.
 - [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Advent of code](http://adventofcode.com/)
