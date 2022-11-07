@@ -36,7 +36,6 @@ Personal bookmarks collection
 ## General
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
 - [Eventbrite](https://www.eventbrite.com/) - Discover event or create to connect with people.
-- [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
 - [Google dashboard](https://myaccount.google.com/dashboard)
@@ -188,6 +187,7 @@ Personal bookmarks collection
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Visualgo](https://visualgo.net/en)
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
+- [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 
 ## Learn
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
