@@ -34,16 +34,8 @@ Personal bookmarks collection
 
 
 ## General
-- [Beta Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
-- [Bold.io](https://bold.io/)
-- [Brilliant](https://brilliant.org/) - Online math brain puzzles.
-- [Bubblehunt](https://bubblehunt.com/)
-- [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
-- [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
-- [Coworking coffee](https://www.coworking.coffee/) - Find workplaces with coffee and wifi, curated by the community.
 - [Daybook](https://www.daybook.co/) - Online Notebook.
-- [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [Devpost](https://devpost.com/)
 - [Digital ocean](https://www.digitalocean.com/)
 - [Dribble](https://dribbble.com/shots)
@@ -155,6 +147,7 @@ Personal bookmarks collection
 - [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
 - [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
+- [Beta Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 
 ## Tools
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
@@ -201,6 +194,7 @@ Personal bookmarks collection
 - [Visualgo](https://visualgo.net/en)
 
 ## Learn
+- [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Class central](https://www.class-central.com/)
@@ -234,6 +228,7 @@ Personal bookmarks collection
 - [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
 - [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
+- [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
 
 ## Machine learning
 
@@ -302,6 +297,7 @@ Personal bookmarks collection
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [Brilliant](https://brilliant.org/) - Online math brain puzzles.
 
 ## Wiki
 ### GitHub related
@@ -328,6 +324,8 @@ Personal bookmarks collection
 - [Codementor](https://www.codementor.io/) - Find freelance developers.
 - [Graduateland](https://graduateland.com)
 - [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
+- [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
+
 ### Currency
 - [Bitcoin now](https://bitcoin.now.sh/) - See the current Bitcoin price.
 - [Booking](https://www.booking.com/)
