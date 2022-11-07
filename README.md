@@ -15,7 +15,7 @@ Personal bookmarks collection
   * [News](#news)
   * [Collections](#collections)
     + [Photo](#photo)
-  * [Video](#video)
+    + [Video](#video)
   * [Fun](#fun)
     + [Games](#games)
   * [Wiki](#wiki)
@@ -285,7 +285,7 @@ Personal bookmarks collection
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
 
-## Video
+### Video
 - [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
 - [Letterboxd](https://letterboxd.com)
 - [Streamable](https://streamable.com/) - Video sharing.
