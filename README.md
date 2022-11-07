@@ -34,7 +34,6 @@ Personal bookmarks collection
 
 
 ## General
-- [Barnacles](https://barnacl.es/)
 - [Beta Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Bold.io](https://bold.io/)
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
@@ -269,6 +268,8 @@ Personal bookmarks collection
 - [Slashdot](https://slashdot.org/)
 - [Sparkman](http://sparkman.strikingly.com/)
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
+### Articles
+- [Barnacles](https://barnacl.es/) - articles
 
 ## Collections
 
