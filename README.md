@@ -1,6 +1,6 @@
 # Bookmarks
 Personal bookmarks collection
---
+
 ## [Cloud](categories/Cloud) 
 A place where a huge data database is waiting for you along with some tools.
 ## [Design](categories/Design)
@@ -22,8 +22,8 @@ Let's take a break!
 ## [Wiki](categories/Wiki) 
 These kind of thing exists so that it can help you fall asleep.
 ## [Finance](categories/Finance)
-
+Can money buy currency? Or vice versa?
 ## [Others](Others.md) 
 And some leftovers, can you categorize them?
 ## [Experiments](categories/Experiments)
-These kind of things exits so that you can again visit this
+These kind of things exits so that you can can look forward to something.
