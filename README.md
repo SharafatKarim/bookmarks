@@ -34,9 +34,6 @@ Personal bookmarks collection
 
 
 ## General
-- [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
-- [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
-- [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Barnacles](https://barnacl.es/)
 - [Beta Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Bold.io](https://bold.io/)
@@ -236,6 +233,8 @@ Personal bookmarks collection
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
 - [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
+- [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
+- [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 
 ## Machine learning
 
@@ -272,6 +271,9 @@ Personal bookmarks collection
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
 ## Collections
+
+- [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
+
 ### Photo
 - [Flickr - explore](https://www.flickr.com/explore)
 - [Flickr](https://www.flickr.com/)
