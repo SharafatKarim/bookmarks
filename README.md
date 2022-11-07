@@ -1,10 +1,6 @@
 # bookmarks
 Personal bookmarks collection
 
-## Cloud services
-
-
-
 ## Cryptocurrencies
 
 - [Binance](https://www.binance.com/) - Cryptocurrency exchange.
