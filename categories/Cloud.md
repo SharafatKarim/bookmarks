@@ -1,18 +1,16 @@
  
 ### Storage
-- [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
 - [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
-- [iCloud](https://www.icloud.com)
+- [Cloudinary](https://cloudinary.com/) - Share media faster through website
 
 ### Search
-- [Aminer](https://cn.aminer.org/)
 - [Bangs](https://duckduckgo.com/bang?) - Duck duck go bang (advanced search)
-- [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
-- [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
-- [Slant](https://www.slant.co/)
-- [Yandex](https://www.yandex.com/)
+- [Duckduckgo](https://duckduckgo.com/) - Private Web Searching
+- [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles
+- [Slant](https://www.slant.co/) - ranking of products
+- [Versus](https://versus.com/en) - Compare almost everything
 
-### Services
+### Services 
 - [Google dashboard](https://myaccount.google.com/dashboard)
 - [Google Docs](https://docs.google.com/document/u/0/)
 - [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
