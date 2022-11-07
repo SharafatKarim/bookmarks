@@ -35,11 +35,7 @@ Personal bookmarks collection
 
 ## General
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
-- [Daybook](https://www.daybook.co/) - Online Notebook.
-- [Devpost](https://devpost.com/)
-- [Digital ocean](https://www.digitalocean.com/)
-- [Dribble](https://dribbble.com/shots)
-- [Eventbrite](https://www.eventbrite.com/)
+- [Eventbrite](https://www.eventbrite.com/) - Discover event or create to connect with people.
 - [Exercism](http://exercism.io/) - Online execution of programming problems.
 - [Favourite and forget](http://usefulinterweb.com/)
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
@@ -128,6 +124,7 @@ Personal bookmarks collection
 - [ArtHub](https://www.notion.so/afnansami/Arthub-42821556e95f42cba098ea410d390306)
 - [Visualize AI](https://www.notion.so/afnansami/VisualiseAi-005116ccd0754b4184d4bc803e7a9f22)
 - [SynestheticAI](https://synesthetic.ai/)
+- [Dribble](https://dribbble.com/shots) - Discover the world’s top Designers & Creatives.
 
 ## Development
 
@@ -148,6 +145,7 @@ Personal bookmarks collection
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
 - [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
 - [Beta Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [Digital ocean](https://www.digitalocean.com/)
 
 ## Tools
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
