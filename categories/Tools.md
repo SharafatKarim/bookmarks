@@ -1,3 +1,5 @@
+- [Goodreads](https://www.goodreads.com/) - Track which books you've read.
+- [Instant.io](https://instant.io/) - Torrent Tracker.
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
 - [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
 - [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
