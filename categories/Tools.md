@@ -1,4 +1,5 @@
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
+- [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
 - [Instant.io](https://instant.io/) - Torrent Tracker.

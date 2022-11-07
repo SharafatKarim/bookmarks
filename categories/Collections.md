@@ -1,4 +1,5 @@
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
+- [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
 
 ## Photo
 - [Flickr - explore](https://www.flickr.com/explore)

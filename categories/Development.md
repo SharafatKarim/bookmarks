@@ -1,3 +1,4 @@
+- [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Advent of code](http://adventofcode.com/)
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
@@ -17,3 +18,4 @@
 - [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
 - [Beta Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Digital ocean](https://www.digitalocean.com/)
+- [Project euler](https://projecteuler.net/archives)
