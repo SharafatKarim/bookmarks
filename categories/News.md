@@ -1,0 +1,30 @@
+
+- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
+- [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
+- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
+- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
+- [Fast company](https://www.fastcompany.com/) - Online Magazine.
+- [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
+- [Golang news](https://golangnews.com/)
+- [Golang weekly](https://golangweekly.com)
+- [Hacker news (new)](https://news.ycombinator.com/newest) - RSS for Hacker News.
+- [Hacker news ranking](http://hnrankings.info/search/)
+- [Hacker news](https://hckrnews.com/)
+- [HN favourites](http://www.hnfavorites.com/#)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
+- [Medium - top](https://medium.com/browse/top)
+- [Medium drafts](https://medium.com/me/stories/drafts)
+- [Medium](https://medium.com/)
+- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
+- [PH today](http://ph.needles.me/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
+- [Readspike](https://readspike.com/)
+- [Slashdot](https://slashdot.org/)
+- [Sparkman](http://sparkman.strikingly.com/)
+- [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
+
+## Articles
+- [Barnacles](https://barnacl.es/) - articles
+- [Favourite and forget](http://usefulinterweb.com/)
