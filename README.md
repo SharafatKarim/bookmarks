@@ -38,10 +38,6 @@ Personal bookmarks collection
 - [Eventbrite](https://www.eventbrite.com/) - Discover event or create to connect with people.
 - [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
-- [Google dashboard](https://myaccount.google.com/dashboard)
-- [Google projects](https://console.cloud.google.com/start)
-- [Google slides](https://docs.google.com/presentation/u/0/)
-- [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
 - [Hackerrank](https://www.hackerrank.com/)
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
@@ -107,10 +103,13 @@ Personal bookmarks collection
 - [Slant](https://www.slant.co/)
 - [Yandex](https://www.yandex.com/)
 ### Services
+- [Google dashboard](https://myaccount.google.com/dashboard)
 - [Google Docs](https://docs.google.com/document/u/0/)
 - [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
 - [Google Slides](https://docs.google.com/presentation/u/0/)
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
+- [Google projects](https://console.cloud.google.com/start)
+- [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 
 ## Design
 
