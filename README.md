@@ -214,62 +214,7 @@ Personal bookmarks collection
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 
 
-## Startups
 
-- [Failory](https://failory.com/) - Learn from failed startups.
-- [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
-
-## Tools
-
-- [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
-- [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
-- [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
-- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
-- [Cdecl](https://cdecl.org/) - Translate C code to English.
-- [Crontab guru](https://crontab.guru/) - Cronjob monitor.
-- [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
-- [Deepl](https://www.deepl.com/translator)
-- [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [Draw.io](https://www.draw.io/) - Online flowchart maker.
-- [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
-- [Google translate](https://translate.google.com/)
-- [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
-- [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
-- [Js bin](https://jsbin.com/?html,output)
-- [Jsfiddle](https://jsfiddle.net)
-- [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
-- [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
-- [lpaste](http://lpaste.net) - Pastebin.
-- [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
-- [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
-- [Rawgit](http://rawgit.com/)
-- [Regex101](https://regex101.com/)
-- [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
-- [Regulex](https://jex.im/regulex/) - Regular Expression Visualizer.
-- [ShareLaTeX](https://www.sharelatex.com) - Online LaTeX editing.
-- [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
-- [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
-- [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
-- [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
-- [TIO](https://tio.run/#) - Family of online interpreters.
-- [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
-- [Updwn](http://updwn.co/) - Make simple, realtime polls.
-- [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
-- [Vocaroo](http://vocaroo.com/) - Voice recording service.
-- [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
-- [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
-
-
-
-## Wiki
-
-- [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
-
-## Other
-
-- [HN leader board](https://hnleaderboard.com/?)
-- [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
-- [Octopart](https://octopart.com/) - Search engine for electronic parts.
 
 ###########################################
 ###########################################
@@ -308,6 +253,43 @@ Personal bookmarks collection
 - [SynestheticAI](https://synesthetic.ai/)
 
 ## Tools
+- [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
+- [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
+- [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+- [Cdecl](https://cdecl.org/) - Translate C code to English.
+- [Crontab guru](https://crontab.guru/) - Cronjob monitor.
+- [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
+- [Deepl](https://www.deepl.com/translator)
+- [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
+- [Draw.io](https://www.draw.io/) - Online flowchart maker.
+- [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
+- [Google translate](https://translate.google.com/)
+- [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
+- [Javascript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
+- [Js bin](https://jsbin.com/?html,output)
+- [Jsfiddle](https://jsfiddle.net)
+- [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
+- [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
+- [lpaste](http://lpaste.net) - Pastebin.
+- [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
+- [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
+- [Rawgit](http://rawgit.com/)
+- [Regex101](https://regex101.com/)
+- [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+- [Regulex](https://jex.im/regulex/) - Regular Expression Visualizer.
+- [ShareLaTeX](https://www.sharelatex.com) - Online LaTeX editing.
+- [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
+- [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
+- [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
+- [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
+- [TIO](https://tio.run/#) - Family of online interpreters.
+- [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
+- [Updwn](http://updwn.co/) - Make simple, realtime polls.
+- [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
+- [Vocaroo](http://vocaroo.com/) - Voice recording service.
+- [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
+- [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
 
 ## Learn
 
@@ -363,6 +345,9 @@ Personal bookmarks collection
 - [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
 - [Works for me](https://works-for-me.github.io/)
 
+### Others
+- [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
+
 ## Finance
 
 ## Social
@@ -373,3 +358,14 @@ Personal bookmarks collection
 - [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
 - [Twitter](https://twitter.com) - Share messages in 250 characters or less.
 - [Whatsapp](https://web.whatsapp.com/)
+
+
+## Other
+
+- [HN leader board](https://hnleaderboard.com/?)
+- [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
+- [Octopart](https://octopart.com/) - Search engine for electronic parts.
+
+### Startups
+- [Failory](https://failory.com/) - Learn from failed startups.
+- [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
