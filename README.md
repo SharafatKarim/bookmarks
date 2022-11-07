@@ -1,57 +1,7 @@
 # bookmarks
 Personal bookmarks collection
 
-## Cryptocurrencies
-
-- [Binance](https://www.binance.com/) - Cryptocurrency exchange.
-- [Bitstamp](https://www.bitstamp.net)
-- [Coin marketcap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations.
-- [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
-- [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
-
-## Development
-
-- [Advent of code](http://adventofcode.com/)
-- [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
-- [Code school](https://www.codeschool.com/)
-- [Codility](https://codility.com/programmers/)
-- [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
-- [Glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API.
-- [Hackr](https://hackr.io/) - Find programming Courses & Tutorials.
-- [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
-- [Libraries.io](https://libraries.io/)
-- [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
-- [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
-- [OverAPI](http://overapi.com/)
-- [Realm](https://realm.io/)
-- [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
-- [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
-
-## Experiments
-
-- [WebGL water](http://madebyevan.com/webgl-water/)
-
-## Finance
-
-- [Bitcoin now](https://bitcoin.now.sh/) - See the current Bitcoin price.
-- [Booking](https://www.booking.com/)
-- [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
-- [Finviz](http://finviz.com/)
-- [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
-- [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
-- [Paypal](https://www.paypal.com)
-- [Trading view](https://www.tradingview.com/)
-
-## Games
-
-- [Checkio](https://py.checkio.org/) - Games for coding.
-- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
-- [Codewars](https://www.codewars.com/)
-- [Codingame](https://www.codingame.com/home)
-- [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
-
 ## General
-
 - [21.co](https://21.co/)
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
 - [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
@@ -136,38 +86,20 @@ Personal bookmarks collection
 - [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
 - [Zen habits](https://zenhabits.net/archives/)
 
-## Go Resources and Tools
-
-- [Go compiler explorer](https://go.godbolt.org/)
-- [Go FAQ](https://golang.org/doc/faq#nil_error)
-- [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
-- [Godoc](https://godoc.org/) - Search for Go Packages.
-- [Visualgo](https://visualgo.net/en)
-
-###########################################
-###########################################
-
-
 ## Cloud
-
 ### Storage
-
 - [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
 - [Google Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
 - [iCloud](https://www.icloud.com)
 - [os.directory](https://os.directory) - Operating System like linux distributed. 
-
 ### Search
-
 - [Aminer](https://cn.aminer.org/)
 - [Bangs](https://duckduckgo.com/bang?)
 - [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
 - [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
 - [Slant](https://www.slant.co/)
 - [Yandex](https://www.yandex.com/)
-
 ### Services
-
 - [Google Docs](https://docs.google.com/document/u/0/)
 - [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
 - [Google Slides](https://docs.google.com/presentation/u/0/)
@@ -179,6 +111,24 @@ Personal bookmarks collection
 - [ArtHub](https://www.notion.so/afnansami/Arthub-42821556e95f42cba098ea410d390306)
 - [Visualize AI](https://www.notion.so/afnansami/VisualiseAi-005116ccd0754b4184d4bc803e7a9f22)
 - [SynestheticAI](https://synesthetic.ai/)
+
+## Development
+
+- [Advent of code](http://adventofcode.com/)
+- [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
+- [Code school](https://www.codeschool.com/)
+- [Codility](https://codility.com/programmers/)
+- [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
+- [Glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API.
+- [Hackr](https://hackr.io/) - Find programming Courses & Tutorials.
+- [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
+- [Libraries.io](https://libraries.io/)
+- [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
+- [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
+- [OverAPI](http://overapi.com/)
+- [Realm](https://realm.io/)
+- [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
+- [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
 
 ## Tools
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
@@ -218,6 +168,11 @@ Personal bookmarks collection
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
+- [Go compiler explorer](https://go.godbolt.org/)
+- [Go FAQ](https://golang.org/doc/faq#nil_error)
+- [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
+- [Godoc](https://godoc.org/) - Search for Go Packages.
+- [Visualgo](https://visualgo.net/en)
 
 ## Learn
 - [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
@@ -339,6 +294,21 @@ Personal bookmarks collection
 - [Codementor](https://www.codementor.io/) - Find freelance developers.
 - [Graduateland](https://graduateland.com)
 - [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
+### Currency
+- [Bitcoin now](https://bitcoin.now.sh/) - See the current Bitcoin price.
+- [Booking](https://www.booking.com/)
+- [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
+- [Finviz](http://finviz.com/)
+- [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
+- [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
+- [Paypal](https://www.paypal.com)
+- [Trading view](https://www.tradingview.com/)
+### Crypto
+- [Binance](https://www.binance.com/) - Cryptocurrency exchange.
+- [Bitstamp](https://www.bitstamp.net)
+- [Coin marketcap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations.
+- [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
+- [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
 
 ## Social
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
@@ -359,3 +329,7 @@ Personal bookmarks collection
 ### Startups
 - [Failory](https://failory.com/) - Learn from failed startups.
 - [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
+
+## Experiments
+
+- [WebGL water](http://madebyevan.com/webgl-water/)
