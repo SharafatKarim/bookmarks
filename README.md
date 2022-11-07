@@ -9,10 +9,7 @@ Personal bookmarks collection
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
 
-## Design
 
-- [Flat UI colours](https://flatuicolors.com/)
-- [UI movement](https://uimovement.com)
 
 ## Development
 
@@ -349,6 +346,9 @@ Personal bookmarks collection
 - [os.directory](https://os.directory) - Operating System like linux distributed. 
 
 ## Design
+
+- [Flat UI colours](https://flatuicolors.com/)
+- [UI movement](https://uimovement.com)
 
 ## Tools
 
