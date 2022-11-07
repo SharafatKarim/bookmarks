@@ -7,7 +7,7 @@ Personal bookmarks collection
 ## [Development](categories/Development) 
 ## [Tools](categories/Tools)
 ## [Learn](categories/Learn) 
-## Machine learning
+## [Machine learning](categories/Machine\ Learning) 
 
 - [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [DataQuest](https://www.dataquest.io/)
