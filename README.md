@@ -218,13 +218,7 @@ Personal bookmarks collection
 
 ## Social
 
-- [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
-- [Facebook](https://www.facebook.com/)
-- [Google plus](https://plus.google.com/)
-- [Meetup](http://www.meetup.com/)
-- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
-- [Twitter](https://twitter.com) - Share messages in 250 characters or less.
-- [Whatsapp](https://web.whatsapp.com/)
+
 
 ## Startups
 
@@ -290,6 +284,10 @@ Personal bookmarks collection
 - [HN leader board](https://hnleaderboard.com/?)
 - [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
 - [Octopart](https://octopart.com/) - Search engine for electronic parts.
+
+###########################################
+###########################################
+
 
 ## Cloud
 
@@ -371,3 +369,12 @@ Personal bookmarks collection
 - [Works for me](https://works-for-me.github.io/)
 
 ## Finance
+
+## Social
+- [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
+- [Facebook](https://www.facebook.com/)
+- [Google plus](https://plus.google.com/)
+- [Meetup](http://www.meetup.com/)
+- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
+- [Twitter](https://twitter.com) - Share messages in 250 characters or less.
+- [Whatsapp](https://web.whatsapp.com/)
