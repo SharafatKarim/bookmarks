@@ -9,8 +9,6 @@ Personal bookmarks collection
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
 
-
-
 ## Development
 
 - [Advent of code](http://adventofcode.com/)
@@ -359,6 +357,16 @@ Personal bookmarks collection
 ## News
 
 ## Collections
+
+## Fun
+
+## Games
+
+- [Checkio](https://py.checkio.org/) - Games for coding.
+- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
+- [Codewars](https://www.codewars.com/)
+- [Codingame](https://www.codingame.com/home)
+- [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
 
 ## Wiki
 
