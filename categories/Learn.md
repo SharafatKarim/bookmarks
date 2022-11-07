@@ -1,0 +1,37 @@
+
+- [Desmos](https://www.desmos.com) - Online Graphing Utility.
+- [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+- [Class central](https://www.class-central.com/)
+- [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
+- [Coursera](https://www.coursera.org/)
+- [Courseroot](https://courseroot.com/) - Search best online courses.
+- [Educative.io](https://www.educative.io/) - Online tutorials
+- [EdX](https://www.edx.org/)
+- [Encyclopedia Britannica](https://www.britannica.com/)
+- [Egghead](https://egghead.io/) - Group of working web development professionals and open source contributors that provide you with video courses.
+- [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
+- [Freecodecamp](https://www.freecodecamp.com/)
+- [Internet Curated](https://internetcurated.com/) - Collection of 150+ hand-picked curated resources & tools.
+- [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
+- [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
+- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+- [Library of Babel](http://libraryofbabel.info/)
+- [MDN](https://developer.mozilla.org/en-US/)
+- [Metacademy](https://www.metacademy.org/)
+- [MIT courses](https://ocw.mit.edu/courses/)
+- [Open culture](http://www.openculture.com/)
+- [Open yale courses](http://oyc.yale.edu/)
+- [Physics Travel Guide](https://physicstravelguide.com)
+- [Quizlet](https://quizlet.com/latest)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
+- [TED](https://www.ted.com/) - Free Expert Academic Talks.
+- [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
+- [Udacity](https://www.udacity.com/)
+- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
+- [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
+- [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
+- [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
+- [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
+- [Exercism](http://exercism.io/) - Online execution of programming problems.

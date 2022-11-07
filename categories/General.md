@@ -1,0 +1,55 @@
+
+- [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
+- [Eventbrite](https://www.eventbrite.com/) - Discover event or create to connect with people.
+- [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
+- [Goodreads](https://www.goodreads.com/) - Track which books you've read.
+- [Grouvee](https://www.grouvee.com/) - Track your video game collection.
+- [Hackerrank](https://www.hackerrank.com/)
+- [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
+- [Heroku apps](https://dashboard.heroku.com/apps)
+- [How stuff works](http://www.howstuffworks.com/)
+- [IFTT](https://ifttt.com/discover) - Find Applets.
+- [Instant.io](https://instant.io/) - Torrent Tracker.
+- [Interviewbit](https://www.interviewbit.com/)
+- [Jumpshare](https://jumpshare.com/)
+- [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
+- [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
+- [Letters of note](http://www.lettersofnote.com/) - Attempts to gather and sort fascinating letters, postcards, telegrams, faxes, and memos.
+- [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
+- [Matrix multiplication](http://matrixmultiplication.xyz/)
+- [N-gate](http://n-gate.com/)
+- [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
+- [Nofile 2](https://nofile.io/) - Simple and secure file sharing.
+- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
+- [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
+- [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
+- [Pinboard (popular)](https://pinboard.in/popular/)
+- [Pinboard (recent)](https://pinboard.in/recent/)
+- [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later. Navigate to other people's pins as well.
+- [Pocket](https://getpocket.com/a/queue/list/) - Save internet links for later.
+- [Product hunt](https://www.producthunt.com/)
+- [Project euler](https://projecteuler.net/archives)
+- [Reddit grid](https://redditgrid.com/)
+- [Rocumentaries](https://rocumentaries.com/) - Curated links to documentaries.
+- [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
+- [Sci-hub](https://scihub.org/)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
+- [Skyscanner](https://www.skyscanner.net/) - Global travel search site.
+- [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
+- [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
+- [Stack real time](https://stackexchange.com/questions?tab=realtime)
+- [Stack share](https://stackshare.io)
+- [Startup tracker](https://startuptracker.io/home)
+- [Steemit](https://steemit.com/@nikivi/feed)
+- [Telegraph](http://telegra.ph/)
+- [Topl](http://www.topl.io/) - Community-driven curation for lists.
+- [Trakt](https://trakt.tv/dashboard) - Track which TV shows and Movies you've watched.
+- [Tumblr](https://www.tumblr.com) - Blogging Website.
+- [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
+- [Twitch](https://www.twitch.tv/) - Free online streaming platform.
+- [Uses This](https://usesthis.com/) - Collection of Interviews.
+- [Vim awesome](http://vimawesome.com/) - Find vim plugins.
+- [W3schools](https://www.w3schools.com/) - The standard for Web Development.
+- [World Meters](http://www.worldometers.info/) - World Statistics updated in real time.
+- [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
+- [Zen habits](https://zenhabits.net/archives/)
