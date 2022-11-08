@@ -1,4 +1,4 @@
-## Categorized 
+## Uncategorized 
 - [Crontab guru](https://crontab.guru/) - Cronjob monitor.
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Deepl](https://www.deepl.com/translator)

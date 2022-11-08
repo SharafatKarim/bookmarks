@@ -2,11 +2,6 @@
 - [Telegraph](http://telegra.ph/)
 - [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
 
-## Machine Learning
-- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
-- [DataQuest](https://www.dataquest.io/)
-- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
-
 ## Track contents
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
@@ -16,3 +11,7 @@
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 
+## AI
+- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
+- [DataQuest](https://www.dataquest.io/)
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
