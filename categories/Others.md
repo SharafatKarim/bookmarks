@@ -23,7 +23,6 @@
 - [ShareLaTeX](https://www.sharelatex.com) - Online La-TeX editing.
 - [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
 ## Startups
-- [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
 - [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
 - [TIO](https://tio.run/#) - Family of online interpreters.
 - [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
