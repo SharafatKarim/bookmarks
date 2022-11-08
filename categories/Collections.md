@@ -9,6 +9,4 @@
 - [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
 
 ## Articles
-- [Barnacles](https://barnacl.es/) - articles
-- [Favourite and forget](http://usefulinterweb.com/)
-- [How stuff works](http://www.howstuffworks.com/)
+- [How stuff works](http://www.howstuffworks.com/) - random article on different materials.
